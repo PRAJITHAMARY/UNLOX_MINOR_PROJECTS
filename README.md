@@ -1,7 +1,3 @@
-# UNLOX_MINOR_PROJECTS
-
-# MINOR_PROJECT_1
-
 # 🧬 GroupDNA - WhatsApp Chat Analyzer
 
 > Analyze WhatsApp group chats to uncover participation patterns, activity trends, media usage, and communication insights using Python.
